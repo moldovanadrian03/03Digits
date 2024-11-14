@@ -1,0 +1,15 @@
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/bin/Debug/net8.0/Deposit
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/bin/Debug/net8.0/Deposit.deps.json
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/bin/Debug/net8.0/Deposit.runtimeconfig.json
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/bin/Debug/net8.0/Deposit.dll
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/bin/Debug/net8.0/Deposit.pdb
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.AssemblyInfoInputs.cache
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.AssemblyInfo.cs
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.csproj.CoreCompileInputs.cache
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.sourcelink.json
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.dll
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/refint/Deposit.dll
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.pdb
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/Deposit.genruntimeconfig.cache
+/Users/adrianmoldovan/Desktop/c#prep/Projects/Deposit/obj/Debug/net8.0/ref/Deposit.dll
